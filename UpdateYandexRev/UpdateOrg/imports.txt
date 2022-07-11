@@ -1,0 +1,7 @@
+pip install
+	scrapy
+	mysql-connector-python
+	numpy
+	pandas
+	scrapy_selenium
+	openpyxl
